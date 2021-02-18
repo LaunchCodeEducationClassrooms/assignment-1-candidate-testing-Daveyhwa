@@ -56,6 +56,7 @@ if(grade>=4){
 }else{
   throw(`Grade became NaN`)
 }
+grade*=20
   return grade;
  
 
